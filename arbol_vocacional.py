@@ -234,6 +234,3 @@ try:
 
 except Exception as e:
     print("❌ Error al calcular la Curva ROC:", str(e))
-
-
-
